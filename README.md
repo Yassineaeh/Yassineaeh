@@ -51,8 +51,7 @@ J'approfondis les tests automatisés, l'intégration continue (GitHub Actions) e
 
 ### 📫 Me contacter
 
-- 💼 LinkedIn : *à compléter* — `https://www.linkedin.com/in/<ton-profil>`
-- 📧 Email : aitelhachemi.yassine@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yassine-ait-elhachemi-662694205/)
 
 <!-- Statistiques GitHub (s'affichent automatiquement) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yassineaeh&show_icons=true&hide_border=true&count_private=true)
